@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hwang1535)](https://solved.ac/hwang1535)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang1535)](https://solved.ac/hwang1535/)
