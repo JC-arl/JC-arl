@@ -35,7 +35,7 @@ Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
   *회장 (2025), 코어 멤버 (2024, 2026)*
 
-  - 신입·재학생 대상 문제 해결(PS) 커리큘럼 설계 및 리딩
+  - 신입·재학생 대상 문제 해결 커리큘럼 설계 및 리딩
   - 교내 알고리즘 경진대회(2025·2026 JBNUPC) 주최 및 ICPC·UCPC 참가 인솔
 
 - ### Litmus, 전북대 오픈소스 온라인 저지·대회 플랫폼 <sup>2024.07 – 2025.09
