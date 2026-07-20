@@ -23,21 +23,21 @@ Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
 - ### Team ZeroOne <sup>2025.07 – 현재
 
-  *창립 멤버 (2025)* | [Zeroone'intro](https://easy-troodon-40b.notion.site/Team-ZeroOne-2b6cfa1bae7f80e9a2f7cfbabbf11123)
+  *founding member (2025)* | [Zeroone'intro](https://easy-troodon-40b.notion.site/Team-ZeroOne-2b6cfa1bae7f80e9a2f7cfbabbf11123)
 
   - 공모전 수상 아이디어를 실제 서비스로 배포·운영하며 사용자를 확보
   - 내부 웹 개발 스터디 운영 및 'Zerotone' 해커톤 기획·운영
 
 - ### ALPS 알고리즘 동아리, 전북대학교 <sup>2024.07 – 2026.07
 
-  *회장 (2025), 코어 멤버 (2024, 2026)* | [ALPS'site](https://sites.google.com/view/jbnu-alps/alps?authuser=0)
+  *president (2025), core member (2024, 2026)* | [ALPS'site](https://sites.google.com/view/jbnu-alps/alps?authuser=0)
 
   - 신입·재학생 대상 문제 해결 커리큘럼 설계 및 리딩
   - 교내 알고리즘 경진대회(2025·2026 JBNUPC) 주최 및 ICPC·UCPC 참가 인솔
 
 - ### Litmus, 전북대 오픈소스 온라인 저지·대회 플랫폼 <sup>2024.07 – 2025.09
 
-  *풀스택 개발자* | [Litmus'github](https://github.com/alps-jbnu/JBNU-Litmus)
+  *full-stack developer* | [Litmus'github](https://github.com/alps-jbnu/JBNU-Litmus)
 
   - 오픈스택 기반 클라우드에서 운영되는 교육용 채점 플랫폼의 풀스택 기능 개발
   - 사용자 대상 지속적인 모니터링·버그 대응으로 서비스 운영
