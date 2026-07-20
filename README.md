@@ -4,9 +4,6 @@
 <br/>
 Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
-## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang1535)](https://solved.ac/hwang1535/)
-
 ## Experience
 - ### MACSLab, 전북대학교 <sup>2025.01 – 2025.06
 
@@ -44,6 +41,9 @@ Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
   - 오픈스택 기반 클라우드에서 운영되는 교육용 채점 플랫폼의 풀스택 기능 개발
   - 사용자 대상 지속적인 모니터링·버그 대응으로 서비스 운영
+
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang1535)](https://solved.ac/hwang1535/)
 
 ## Awards
 
