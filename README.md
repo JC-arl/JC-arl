@@ -13,7 +13,7 @@ Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
   *학부연구생, 의료 AI 및 계산과학 연구실*
 
   - 생성 모델(DDPM, VAE) 중심의 컴퓨터 비전 논문 리뷰
-  - VAE 기반 파이프라인 구축 — 웹툰 효과음 데이터셋을 학습해 새로운 효과음 이미지 생성
+  - VAE 기반 파이프라인을 구축해 웹툰 효과음 데이터셋을 학습하고 새로운 효과음 이미지를 생성
 
 - ### 대한민국 해군 <sup>2022.09 – 2024.05
 
