@@ -28,7 +28,7 @@ Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
   *창립 멤버 (2025)*
 
-  - 공모전 수상 아이디어를 실제 MVP 서비스로 출시 및 고도화
+  - 공모전 수상 아이디어를 실제 서비스로 배포·운영하며 사용자를 확보
   - 내부 웹 개발 스터디 운영 및 'Zerotone' 해커톤 기획·운영
 
 - ### ALPS 알고리즘 동아리, 전북대학교 <sup>2024.07 – 2026.07
