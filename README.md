@@ -2,7 +2,7 @@
 </br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=zoooony&fontSize=90)
 <br/>
-Check out my portfolio: (zoooony's portfolio)[https://zoooony.vercel.app/#home]
+Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang1535)](https://solved.ac/hwang1535/)
