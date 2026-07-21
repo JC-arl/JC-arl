@@ -23,7 +23,7 @@ Check out my portfolio: [zoooony's portfolio](https://zoooony.vercel.app/#home)
 
 - ### Team ZeroOne <sup>2025.07 – 현재
 
-  *founding member (2025)* | [ZeroOne'intro](https://easy-troodon-40b.notion.site/Team-ZeroOne-2b6cfa1bae7f80e9a2f7cfbabbf11123)
+  *founding member (2025)* | [ZeroOne's intro](https://easy-troodon-40b.notion.site/Team-ZeroOne-2b6cfa1bae7f80e9a2f7cfbabbf11123)
 
   - 공모전 수상 아이디어를 실제 서비스로 배포·운영하며 사용자를 확보
   - 내부 웹 개발 스터디 운영 및 'Zerotone' 해커톤 기획·운영
